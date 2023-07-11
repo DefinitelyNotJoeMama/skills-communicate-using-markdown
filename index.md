@@ -4,3 +4,7 @@ github makin me do this
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 idk what i just did
+- [x] why am i doing this
+- [ ] this is pretty boring tbh
+- [ ] ima just go play mario
+- [ ] just kidding this tutorial isn't done yet
