@@ -1,3 +1,6 @@
 # idk man
 github makin me do this
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![antidisestablishmentarianism](https://octodex.github.com/images/yaktocat.png)
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+idk what i just did
